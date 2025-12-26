@@ -1,1 +1,13 @@
-PySide6
+PySide6 and yt_dlp # library for downloader
+
+Install PySide6 (Qt will suggest)
+
+Run these commands
+
+1. .qtcreator\Python_3_12_4venv\Scripts\activate
+
+2. pip install yt-dlp
+
+# Please constantly update the yt_dlp library using the command below.
+
+pip install -U yt-dlp
